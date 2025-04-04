@@ -1,6 +1,6 @@
 # nvim-config  
-This is my neovim configuration file  
-It is slightly modified from the nvim-kickstart repository by TJ  
+This is a neovim configuration file  
+It is slightly modified from the nvim-kickstart.
 
 ## Note:  
 1. Make sure you have installed all the dependencies including:  
