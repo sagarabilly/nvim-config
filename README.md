@@ -12,9 +12,7 @@ It is slightly modified from the nvim-kickstart.
    :TSUpdateSync  
   ```  
 
-3. For windows, the configuration file should placed in:  
+3. For windows, the configuration file should be placed in:  
     C:\Users\<user_name>\AppData\Local\nvim  
-  So, please clone the repository using ```git clone https://github.com/sagarabilly/nvim-config``` at:  
-    C:\Users\<user_name>\AppData\Local\  
-   And please rename the folder to nvim (delete theres already nvim folder, delete it)  
+   And please rename the folder to nvim (if there is already nvim folder, delete it)  
 
