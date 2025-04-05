@@ -3,9 +3,10 @@ This is a neovim configuration file written in lua.
 It is just slightly added from the famous kickstart.nvim repository, so it has some general plugins like Telescope, etc.  
 
 This configuration is used mainly for python, rust, or go with pyright, rust-analyzer, gopls, and others.
-It is also added with REPL iron.nvim, bufferline, etc. 
+It is also added with REPL iron.nvim, bufferline, etc.
+ 
 Feel free to adjust the config to your liking. 
-
+To add a new plugin, you can add it in the custom folder or directly to your init.lua file.
 
 ## Note:  
 1. Make sure you have installed all the dependencies including:  
