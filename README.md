@@ -1,6 +1,6 @@
 # nvim-config  
 This is a neovim configuration file  
-It is slightly modified from the nvim-kickstart.
+It is slightly modified from the famous kickstart.nvim repository.
 
 ## Note:  
 1. Make sure you have installed all the dependencies including:  
@@ -14,5 +14,6 @@ It is slightly modified from the nvim-kickstart.
 
 3. For windows, the configuration file should be placed in:  
     C:\Users\<user_name>\AppData\Local\nvim  
-   And please rename the folder to nvim (if there is already nvim folder, delete it)  
+   And please rename the folder to nvim after cloning it.  
+   (if there is already nvim folder, delete it)  
 
