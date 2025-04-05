@@ -1,7 +1,7 @@
 --[[
 ========================
 Nvim kickstart init.lua
-slightly modified
+slightly added
 ========================
 --]]
 
